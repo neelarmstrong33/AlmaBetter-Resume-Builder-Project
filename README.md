@@ -2,8 +2,6 @@
 
 ## OUTPUT -
 
-![VID_20230904185738]()
-
 
  On Internet there are hundreds of resume Builder Websites but they all are paid Or loaded with  Advertisements and also Time consuming .
 
