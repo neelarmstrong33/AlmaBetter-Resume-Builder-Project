@@ -6,10 +6,12 @@ import TwitterIcon from "@mui/icons-material/Twitter";
 import EmailIcon from "@mui/icons-material/Email";
 import { Box } from "@mui/system";
 import Navbar from "../Components/Common/Navbar";
+import "../Styles/AboutUs.css";
 
 export default function ButtonMUI() {
   return (
     <>
+      <div className="backgroundColor">
       <Navbar />
       <Stack p={{ xs: "15px", sm: "25px", md: "40px", lg: "60px " }}>
         <h2 className="template-header-title">Resume Builder</h2>
@@ -101,6 +103,7 @@ export default function ButtonMUI() {
           </Box>
         </Box>
       </Stack>
+      </div>
     </>
   );
 }
