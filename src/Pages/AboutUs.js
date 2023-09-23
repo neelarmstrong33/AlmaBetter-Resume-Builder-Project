@@ -47,8 +47,10 @@ export default function ButtonMUI() {
            using predefined sections approved by recruiters worldwide. 
            You can also customize it to your own needs and personality and hit 'Download'.
             It's THAT easy to use, even if you've never made a resume in your life before!
-          
+            <br/>
+            <br/>
             <li>Build Your Resume Fast and Easy with Following steps </li>
+            <br/>
             
             <ol>1. Select Templete </ol>
             <ol>2. Fill deatils </ol>

@@ -59,7 +59,7 @@ const DetailFillingSidebar = (props) => {
             maxWidth: 360,
             boxShadow: "0px 0px 4px 0px rgb(228, 228, 228)",
             height: "fit-content",
-            backgroundColor: "#efcc00",
+            backgroundColor: "#CE61D6",
           }}>
           <List disablePadding>
             <ListItem disablePadding>

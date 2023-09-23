@@ -175,10 +175,7 @@ const PersonalInfoComponent = (props) => {
           </DialogContent>
           <DialogActions>
           <Button  onClick={saveImage}>   
-            
             </Button> 
-             
-            
           </DialogActions>
         </BootstrapDialog>
       </div>

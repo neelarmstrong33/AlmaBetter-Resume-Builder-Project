@@ -1,6 +1,6 @@
 .home {
   width: 100%;
-  background-color:#C70039;
+  background-color: white;
 }
 
 .home-templates-cont {
@@ -36,6 +36,7 @@
 .template-img {
   width: 100%;
   height: 100%;
+  border: 1.5px solid black;
 }
 
 .MuiButtonBase-root.MuiButton-root.use-template-btn {
