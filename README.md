@@ -1,6 +1,6 @@
 # AlmaBetter-Resume-Builder-Project
 
-Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. You can easily customise your resume with Resume Builder's user-friendly interface to highlight your unique skills and professional experience.
+Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. You can easily customize your resume with Resume Builder's user-friendly interface to highlight your unique skills and professional experience.
 
 Stand out from the crowd and make a lasting impression with Resume Builder, the perfect tool to land your dream job. Start building your future today!
 
@@ -11,6 +11,7 @@ Clone this repository in your local machine and install the needed dependencies
 Type **npm start** in the terminal to start the application after installing the dependencies using **npm install <package_name>**
 
 ## Folder Structure
+```
 ├───public
 │       favicon.ico
 │       index.html
@@ -100,6 +101,7 @@ Type **npm start** in the terminal to start the application after installing the
     │
     └───Utils
             inputChecks.js
+```
 
 ## Introduction
 * Resume@builder is a web application where anyone can create a resume with ease and choose from different available templates.
@@ -135,3 +137,10 @@ Type **npm start** in the terminal to start the application after installing the
 
 - *About us*
 ![AboutUsPge](https://github.com/neelarmstrong33/AlmaBetter-Resume-Builder-Project/assets/128790940/5d609cb5-4703-4179-84b1-6eff2a2d6cd3)
+
+## Links for the project
+
+Deployment Link: https://cvmakeradvance.netlify.app/
+## Contribution
+
+- Neel Jain
