@@ -1,8 +1,15 @@
 # AlmaBetter-Resume-Builder-Project
 
-Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. You can easily customize your resume with Resume Builder's user-friendly interface to highlight your unique skills and professional experience.
+Summary: The Capstone project on Resume-Builder aimed to address the challenge of helping job seekers create compelling and effective resumes. In today's competitive job market, there are hundreds of Resume-Builder Websites but they all are paid or loaded with Advertisements and are also Time consuming. But Now On our Website, you can get Free Access to Create wonderful Resumes in Just a few minutes. You will get Four HR-approved Resume templates and also you can download the Resume in PDF format for free. This project focused on developing a web-based application called Resume-Builder to streamline the resume creation process, and ultimately enhance users' chances of career success.
 
-Stand out from the crowd and make a lasting impression with Resume Builder, the perfect tool to land your dream job. Start building your future today!
+Components:
+•	React-based User Interface: The project utilized React to develop an interactive and responsive user interface. This ensured a seamless and engaging experience for users.
+•	User Profiles: Users could create profiles with their personal information, work history, education, and skills.
+•	Template Selection: Resume-Builder provided a selection of resume templates, each with different designs and layouts, allowing users to choose the one that best suited their needs. 
+•	Real-Time Preview: Users could see a real-time preview of their resume as they entered information and made changes.
+•	Export Options: The application allows users to download their resumes in PDF format making it easy to submit them to potential employers.
+
+The Resume-Builder project ultimately served as a valuable resource for individuals seeking to present themselves professionally and stand out in the competitive job market.
 
 ## Installation
 
